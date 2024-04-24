@@ -1,0 +1,11 @@
+{
+  "testing": {
+    "description": "Posts about testing methodologies and tools"
+  },
+  "react": {
+    "description": "Posts about React and related libraries"
+  },
+  "express": {
+    "description": "Posts about Express.js and backend development"
+  }
+}
